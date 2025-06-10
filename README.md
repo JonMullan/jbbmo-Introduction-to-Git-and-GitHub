@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+2# Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
